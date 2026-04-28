@@ -1,0 +1,1 @@
+/home/brian/robo450/final/turtlebot4_ws/build/turtlebot4_viz/ament_cmake_environment_hooks/local_setup.zsh

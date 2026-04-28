@@ -1,0 +1,1 @@
+/home/brian/robo450/final/turtlebot4_ws/build/turtlebot4_description/ament_cmake_core/turtlebot4_descriptionConfig-version.cmake
